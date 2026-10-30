@@ -1,0 +1,10 @@
+relationship 37c86e81-24be-428f-898d-9052939e93f3
+	joinOnDateBehavior: datePartOnly
+	fromColumn: index_1.date
+	toColumn: LocalDateTable_c093d0d7-785a-48a1-a402-b9795add9099.Date
+
+relationship 57f4b058-9490-4b85-b038-b0ede5abd66f
+	joinOnDateBehavior: datePartOnly
+	fromColumn: index_1.datetime
+	toColumn: LocalDateTable_ba83ecdd-9173-4620-aa08-78d4d02d01e1.Date
+
